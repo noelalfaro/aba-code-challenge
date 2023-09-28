@@ -30,3 +30,7 @@ Before you begin, ensure you have met the following requirements:
 4. To start the development server and run the project locally run:
 
    'npm run dev'
+
+5. To view running project navigate to url provided by build tool. It can look like:
+
+   'http://localhost:5173'
