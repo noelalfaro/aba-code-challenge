@@ -17,11 +17,11 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine:
 
-   git clone
+   git clone https://github.com/noelalfaro/aba-code-challenge.git
 
 2. Navigate into project directory
 
-   cd aba
+   cd aba-code-challenge
 
 3. Once in the project directory run:
 
